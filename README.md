@@ -29,5 +29,9 @@ This is a simple Blackjack game built using **HTML**, **CSS**, and **JavaScript*
 - Track game history or scores
 - Sound effects and animations
 
+## Demo Images:
+  <img width="885" height="732" alt="Screenshot From 2025-07-28 00-58-34" src="https://github.com/user-attachments/assets/ea31ca8c-70cf-49f3-8fd6-9067c1977844" />
+
+
 ## 💡 Inspiration
   This project was inspired by the popular card game Blackjack and built to practice DOM manipulation and game logic using JavaScript.
